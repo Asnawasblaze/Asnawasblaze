@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asnawasblaze 
 - 👀 I’m interested in coding but beginner
-- 🌱 I’m currently learning python for AI and ML
+- 🌱 I’m currently learning Full stack development and python
 - 💞️ I’m looking to collaborate on anything to develope  myself
 - 📫 How to reach me <asnawas_7 insta id>
 - 😄 Pronouns: he/him
